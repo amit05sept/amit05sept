@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Programmer</h3>
 <img align =“right” alt=“ coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
-- 🔭 I’m currently working on **resume website**
+- 🔭 I’m currently working on **MERN website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **web-dev projects**
 
-- 💬 Ask me about **C++, HTML, CSS**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript**
 
 - ⚡ Fun fact **I like to Animate and Draw**
 
